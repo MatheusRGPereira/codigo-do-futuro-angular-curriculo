@@ -1,13 +1,9 @@
-# Site Criado para estudo de dietivas e rotas 📖🟢
+# Site Criado para estudo de Angular e uso de Templates Gratuitos através do Bootcamp Codigo da futuro da Gama Academy 📖🟢
 
 
- #### ✅ - Uso de diretivas
- * Ng for para mostrar todos os dados de um array em uma tabela
- * Foi criada um array mockado para utilização do ng for
- * Ng if para alterar a visualização na tela conforme a condição
+ #### ✅ - Uso do site start Bootstrap para criação do template
+ * Foi utilizado o template Resume do start Bootstrap
 
- #### ✅ - Uso de Rotas
- * Através das camadas routing foram criadas as rotas das paginas Sobre/Tabelas/Home
  
  
  
